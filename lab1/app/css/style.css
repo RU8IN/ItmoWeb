@@ -1,0 +1,41 @@
+body {
+    text-align: center;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+table {
+    align-content: center;
+    width: 100%;
+    border-collapse: collapse;
+    background: rgb(255, 255, 255);
+}
+
+/* main__quest */
+
+.main__quest {
+    text-align: justify;
+}
+
+.main__quest td {
+    padding-top: 7px;
+}
+.main__quest td ul {
+    margin-top: 3px;
+}
+
+/* main__implementation */
+
+#image { 
+    width: 402px;
+}
+
+
+/* main__results */
+
+.main__results th, .main__results tr, .main__results td {
+    border: 1px solid black;
+}
+
